@@ -1,9 +1,9 @@
 import React from 'react';
 
 //Graveyard ecosystem logos
-import tombLogo from '../../assets/img/3OMB.svg';
+import tombLogo from '../../assets/img/addy.png';
 import tShareLogo from '../../assets/img/3SHARES.svg';
-import tombLogoPNG from '../../assets/img/3OMB.png';
+import tombLogoPNG from '../../assets/img/addy.png';
 import tShareLogoPNG from '../../assets/img/3SHARES.png';
 import tBondLogo from '../../assets/img/3BOND-01.png';
 
